@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EXT:xlf_usage_variants/Resources/Private/Language/locallang.xlf" date="2024-01-15T11:20:00Z" product-name="xlf_usage_variants">
+        <header/>
+        <body>
+            <trans-unit id="xlfInFluid">
+                <source>XLF Translations in Fluid</source>
+            </trans-unit>
+            <trans-unit id="xlfNonExtbase">
+                <source>Non Extbase XLF Translations</source>
+            </trans-unit>
+            <trans-unit id="xlfExtbase">
+                <source> Extbase XLF Translations</source>
+            </trans-unit>
+            <trans-unit id="xlfInJavaScript">
+                <source>XLF Translation in JavaScript</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
