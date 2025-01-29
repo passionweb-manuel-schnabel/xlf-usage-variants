@@ -1,7 +1,0 @@
-plugin.tx_xlftranslations {
-    view {
-        templateRootPaths.3 = EXT:xlf_usage_variants/Resources/Private/Templates/
-        layoutRootPaths.3 = EXT:xlf_usage_variants/Resources/Private/Layouts/
-        partialRootPaths.3 = EXT:xlf_usage_variants/Resources/Private/Partials/
-    }
-}

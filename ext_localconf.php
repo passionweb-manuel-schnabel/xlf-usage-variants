@@ -51,10 +51,3 @@ ExtensionUtility::configurePlugin(
         TranslationController::class => 'xlfInJavaScript'
     ],
 );
-
-
-\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTypoScript(
-    'xlf_usage_variants',
-    'setup',
-    '@import "EXT:xlf_usage_variants/Configuration/TypoScript/setup.typoscript"'
-);
